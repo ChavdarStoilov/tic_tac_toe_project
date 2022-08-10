@@ -1,1 +1,1 @@
-# tic_tac_toe_project
+# A little project for tic tac toe game
